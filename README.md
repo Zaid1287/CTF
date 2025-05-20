@@ -4,6 +4,10 @@ This is a Capture the flag on Forensics and Cryptography
 the flags are of the format "NJACK{"string"}"
 
 ---------------**********----------------
+
+
+
+
 This file contains the solution to the CTF
 
 
