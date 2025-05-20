@@ -3,6 +3,9 @@ This is a Capture the flag on Forensics and Cryptography
 
 the flags are of the format "NJACK{"string"}"
 
+You will be searching for "NJACK{_congrats!!_}"
+
+
 ---------------**********----------------
 
 
